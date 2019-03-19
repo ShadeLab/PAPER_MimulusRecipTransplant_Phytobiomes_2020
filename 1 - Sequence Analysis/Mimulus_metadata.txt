@@ -1,0 +1,50 @@
+#SampleID	BarcodeSequence	LinkerPrimerSequence	Genotype	Origin	Site_planted	SampleType	Rhizo_Bulk	Root_Mass_mg	Shoot_Mass_g	pH	Phosphorus	Potassium	Calcium	Magnesium	Copper	Percent_Organic_Matter	Sodium	Nitrate	Ammonium	Percent_Moisture	TotalN	Sulfur	Soil_tempC	Air_TempC	Description
+Mim1			OCC	Inland	Inland	OCC (Inland ecotype)	Rhizo	14.6	0.0916	6.2	3	151	2415	1476	22.5	5.3	53	1.2	4.7	19.2	0.215	19	19.24	31.413624	SWB275
+Mim109			LMC	Inland	Inland	LMC (Inland ecotype)	Rhizo	18.6	0.1388	6.3	3	189	2635	1791	20.4	4.1	52	0.2	4.1	16.8	0.143	14	17.99	28.018908	SWB226
+Mim11			MRR	Coastal	Inland	MRR (Coastal ecotype)	Rhizo	15	0.024	6	4	160	2556	1602	25.2	6.1	52	1.1	7.2	19.1	0.239	21	19.5	29.55792	MRR272
+Mim12			SWB	Coastal	Inland	SWB (Coastal ecotype)	Rhizo	8.6	0.1888	6	4	186	2551	1737	22	5.5	48	0.4	7.4	11.5	0.21	18	23.1	29.55792	MRR254
+Mim141			MRR	Coastal	Coastal	MRR (Coastal ecotype)	Rhizo	97	2.23	6.2	14	42	697	220	2.7	3.1	132	0	3.2	27.9	0.086	20	10.08414	13.6	MRR75
+Mim143			MRR	Coastal	Coastal	MRR (Coastal ecotype)	Rhizo	80.2	1.1103	5.9	19	48	789	223	2.4	3.6	143	0	6.1	35.6	0.171	28	10.08414	13.8	MRR73
+Mim151			SWB	Coastal	Coastal	SWB (Coastal ecotype)	Rhizo	24.8	0.2813	6.2	19	53	750	213	2.2	3	114	0	4.5	34.3	0.114	22	11.978736	13.4	SWB74
+Mim152			SWB	Coastal	Coastal	SWB (Coastal ecotype)	Rhizo	77.3	0.0882	6.1	19	63	709	219	1.9	3.2	130	0	6.4	32.7	0.135	19	11.978736	13.2	SWB67
+Mim161			MRR	Coastal	Coastal	MRR (Coastal ecotype)	Rhizo	70.4	1.56	6	16	40	996	262	2.9	4.4	160	0	6.1	40.7	0.187	29	10.08414	14.1	MRR32
+Mim162			MRR	Coastal	Coastal	MRR (Coastal ecotype)	Rhizo	88.3	2.73	5.9	18	39	895	259	2.5	4.8	154	0	7.1	40.1	0.162	27	10.08414	12.7	MRR47
+Mim172			SWB	Coastal	Coastal	SWB (Coastal ecotype)	Rhizo	7.4	0.0744	6.2	14	42	697	220	2.7	3.1	132	0	3.2	27.9	0.086	20	11.978736	13.2	SWB48
+Mim176			SWB	Coastal	Coastal	SWB (Coastal ecotype)	Rhizo	75.5	0.66	5.9	19	48	789	223	2.4	3.6	143	0	6.1	35.6	0.171	28	11.978736	13.2	SWB41
+Mim181			OCC	Inland	Coastal	OCC (Inland ecotype)	Rhizo	86.3	0.0477	6.2	19	53	750	213	2.2	3	114	0	4.5	34.3	0.114	22	10.08414	13.3	OCC32
+Mim182			OCC	Inland	Coastal	OCC (Inland ecotype)	Rhizo	29	0.0314	6.1	19	63	709	219	1.9	3.2	130	0	6.4	32.7	0.135	19	10.08414	13.3	OCC140
+Mim190			OCC	Inland	Coastal	OCC (Inland ecotype)	Rhizo	75.5	0.0179	6	16	40	996	262	2.9	4.4	160	0	6.1	40.7	0.187	29	11.978736	13.4	OCC147
+Mim191			LMC	Inland	Coastal	LMC (Inland ecotype)	Rhizo	41	0.6304	5.9	18	39	895	259	2.5	4.8	154	0	7.1	40.1	0.162	27	10.08414	13.1	LMC141
+Mim2			MRR	Coastal	Inland	MRR (Coastal ecotype)	Rhizo	18.2	0.079	6.3	3	171	2435	1413	18.3	3.5	47	0.1	4.8	22.5	0.137	15	18.4	29.55792	SWB273
+Mim21			MRR	Coastal	Inland	MRR (Coastal ecotype)	Rhizo	11.8	0.0079	6.3	3	162	2132	975	17.4	3.5	51	0.4	4.5	14.5	0.133	14	23.9	29.55792	OCC256.264
+Mim212			MRR	Coastal	Coastal	MRR (Coastal ecotype)	Rhizo	22.8	0.1218	5.9	19	48	789	223	2.4	3.6	143	0	6.1	35.6	0.171	28	10.08414	12.9	MRR143
+Mim22			LMC	Inland	Inland	LMC (Inland ecotype)	Rhizo	7.7	0.0024	6.2	3	151	2415	1476	22.5	5.3	53	1.2	4.7	19.2	0.215	19	20	28.018908	OCC261
+Mim224			OCC	Inland	Coastal	OCC (Inland ecotype)	Rhizo	19.4	0.3239	6.2	14	42	697	220	2.7	3.1	132	0	3.2	27.9	0.086	20	11.978736	13.5	OCC17
+Mim228			OCC	Inland	Coastal	OCC (Inland ecotype)	Rhizo	0.327	0.0068	5.9	19	48	789	223	2.4	3.6	143	0	6.1	35.6	0.171	28	11.978736	13.7	OCC2
+Mim237			LMC	Inland	Coastal	LMC (Inland ecotype)	Rhizo	40.2	0.4997	6.2	19	53	750	213	2.2	3	114	0	4.5	34.3	0.114	22	10.08414	13.4	LMC24
+Mim238			LMC	Inland	Coastal	LMC (Inland ecotype)	Rhizo	59.8	0.7967	6.1	19	63	709	219	1.9	3.2	130	0	6.4	32.7	0.135	19	10.08414	13.8	LMC2
+Mim250			OCC	Inland	Coastal	OCC (Inland ecotype)	Rhizo	28.5	0.07	6	16	40	996	262	2.9	4.4	160	0	6.1	40.7	0.187	29	11.978736	13.9	OCC84
+Mim255			LMC	Inland	Coastal	LMC (Inland ecotype)	Rhizo	43.4	0.0861	5.9	18	39	895	259	2.5	4.8	154	0	7.1	40.1	0.162	27	10.08414	13.4	LMC81
+Mim31			SWB	Coastal	Inland	SWB (Coastal ecotype)	Rhizo	48	0.0262	6.3	3	189	2635	1791	20.4	4.1	52	0.2	4.1	16.8	0.143	14	20.2	29.55792	LMC268
+Mim32			OCC	Inland	Inland	OCC (Inland ecotype)	Rhizo	11.3	0.0159	6	4	160	2556	1602	25.2	6.1	52	1.1	7.2	19.1	0.239	21	21.1	28.018908	LMC269
+Mim46			MRR	Coastal	Inland	MRR (Coastal ecotype)	Rhizo	40.9	0.0928	6	4	186	2551	1737	22	5.5	48	0.4	7.4	11.5	0.21	18	18.8	31.413624	SWB168
+Mim47			SWB	Coastal	Inland	SWB (Coastal ecotype)	Rhizo	41.43	0.102	6	4	185	2556	1738	23	5.6	48	0.45	7.4	11.8	0.22	19	19.1	31.413624	SWB164
+Mim57			SWB	Coastal	Inland	SWB (Coastal ecotype)	Rhizo	11.8	0.0266	6.3	3	171	2435	1413	18.3	3.5	47	0.1	4.8	22.5	0.137	15	20	31.413624	MRR158
+Mim58			MRR	Coastal	Inland	MRR (Coastal ecotype)	Rhizo	8.7	0.5298	6.3	3	162	2132	975	17.4	3.5	51	0.4	4.5	14.5	0.133	14	20.45	31.413624	MRR164
+Mim66			OCC	Inland	Inland	OCC (Inland ecotype)	Rhizo	4	0.0558	6.2	3	151	2415	1476	22.5	5.3	53	1.2	4.7	19.2	0.215	19	20.5	28.018908	OCC164
+Mim67			OCC	Inland	Inland	OCC (Inland ecotype)	Rhizo	3	0.012	6.2	3	151	2415	1476	22.5	5.3	53	1.2	4.7	19.2	0.215	19	20.4	28.018908	OCC161
+Mim83			LMC	Inland	Inland	LMC (Inland ecotype)	Rhizo	4.7	0.0917	6.3	3	189	2635	1791	20.4	4.1	52	0.2	4.1	16.8	0.143	14	20.5	28.018908	LMC239
+Mim87			LMC	Inland	Inland	LMC (Inland ecotype)	Rhizo	2.1	0.016	6	4	160	2556	1602	25.2	6.1	52	1.1	7.2	19.1	0.239	21	23	28.018908	OCC229
+Mim93			LMC	Inland	Inland	LMC (Inland ecotype)	Rhizo	10.3	0.0115	6	4	186	2551	1737	22	5.5	48	0.4	7.4	11.5	0.21	18	22.1	28.018908	MRR227
+Mim97			SWB	Coastal	Inland	SWB (Coastal ecotype)	Rhizo	43.6	0.4276	6.3	3	171	2435	1413	18.3	3.5	47	0.1	4.8	22.5	0.137	15	21.23	31.413624	LMC231
+Mim98			OCC	Inland	Inland	OCC (Inland ecotype)	Rhizo	13.7	0.0125	6.3	3	162	2132	975	17.4	3.5	51	0.4	4.5	14.5	0.133	14	22.3	28.018908	LMC242
+Mim116			BulkSoil	Inland	Inland	Bulk Soil	Bulk			6.2	3	151	2415	1476	22.5	5.3	53	1.2	4.7	19.2	0.215	19			Bulk116
+Mim124			BulkSoil	Inland	Inland	Bulk Soil	Bulk			6.3	3	171	2435	1413	18.3	3.5	47	0.1	4.8	22.5	0.137	15			Bulk124
+Mim129			BulkSoil	Inland	Inland	Bulk Soil	Bulk			6.3	3	189	2635	1791	20.4	4.1	52	0.2	4.1	16.8	0.143	14			Bulk129
+Mim132			BulkSoil	Inland	Inland	Bulk Soil	Bulk			6	4	186	2551	1737	22	5.5	48	0.4	7.4	11.5	0.21	18			Bulk132
+Mim139			BulkSoil	Inland	Inland	Bulk Soil	Bulk			6	4	160	2556	1602	25.2	6.1	52	1.1	7.2	19.1	0.239	21			Bulk139
+Mim261			BulkSoil	Coastal	Coastal	Bulk Soil	Bulk			6.2	14	42	697	220	2.7	3.1	132	0	3.2	27.9	0.086	20			Bulk261
+Mim266			BulkSoil	Coastal	Coastal	Bulk Soil	Bulk			5.9	19	48	789	223	2.4	3.6	143	0	6.1	35.6	0.171	28			Bulk266
+Mim271			BulkSoil	Coastal	Coastal	Bulk Soil	Bulk			6.2	19	53	750	213	2.2	3	114	0	4.5	34.3	0.114	22			Bulk271
+Mim277			BulkSoil	Coastal	Coastal	Bulk Soil	Bulk			6	16	40	996	262	2.9	4.4	160	0	6.1	40.7	0.187	29			Bulk277
+Mim286			BulkSoil	Coastal	Coastal	Bulk Soil	Bulk			6.1	19	63	709	219	1.9	3.2	130	0	6.4	32.7	0.135	19			Bulk286
